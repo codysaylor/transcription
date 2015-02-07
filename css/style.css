@@ -1,0 +1,23 @@
+html {
+	font-family: 'Open Sans', sans-serif;
+}
+body:hover {
+	cursor: default;
+}
+ui-resizable-s {
+	cursor: help;
+	min-height: 26px !important;
+}
+span {
+-webkit-transition: all 0.8s ease;
+-moz-transition: all 0.8s ease;
+-o-transition: all 0.8s ease;
+transition: all 0.8s ease;
+}
+.white {
+	background-color: white;
+}
+.yellow {
+	background-color: yellow;
+	font-size:1.03em;
+}
